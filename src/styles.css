@@ -3,8 +3,19 @@ html {
 }
 body {
   text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  background: #e3e3e3;
 }
 p {
   margin: 40px auto;
   width: 60%;
+  font-size: 25px;
+}
+a {
+  font-size: 20px;
+  text-decoration: none;
+  color: #bc2525;
+}
+a:hover {
+  color: #a55233;
 }
